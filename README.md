@@ -47,9 +47,9 @@ WF-CNKI.txt  原始数据库（知网万方2010-2020 20万篇）
 17.将每个词单独成行放入txt中（统计词数）  （暂时不需要，忘记用途）
 
 # 未上传文件
-部分文件由于较大，超过25 mB, 未能成功上传，请在百度网盘中下载： /
-每个词单独成行1.txt /
-每个词单独成行.txt /
-链接：https://pan.baidu.com/s/1n1EGHWbmO6MuarzuFblb-g     /
+部分文件由于较大，超过25 mB, 未能成功上传，请在百度网盘中下载： \
+每个词单独成行1.txt \
+每个词单独成行.txt \
+链接：https://pan.baidu.com/s/1n1EGHWbmO6MuarzuFblb-g     \
 提取码：1111 
 
