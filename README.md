@@ -1,12 +1,13 @@
 # chinese-preprocessing-try
 preprocessing 万方知网
 
-文件名介绍
-Chinese-preprocessing.py  主要预处理代码
-mat2vec.py  mat2vec代码（暂时没有用到）
-stopwords.txt  停止词库
+# 文件名介绍
+Chinese-preprocessing.py  主要预处理代码\
+mat2vec.py  mat2vec代码（暂时没有用到）\
+stopwords.txt  停止词库/
 userdict.txt  自定义词库
 WF-CNKI.txt  原始数据库（知网万方2010-2020 20万篇）
+
 ## 输出文件
 空格.txt  空格预处理的输出文件
 空格-半角.txt  空格-半角预处理的输出文件
@@ -18,7 +19,7 @@ WF-CNKI.txt  原始数据库（知网万方2010-2020 20万篇）
 每个词单独成行.txt  用于区分中英文并且统计词频（未去除空行）
 每个词单独成行1.txt  用于区分中英文并且统计词频（去除空行）
 
-特别注意
+# 特别注意
 第9步开始需要安装mat2vec，暂时未能安装运行成功
 暂时没有命名实体识别功能
 
